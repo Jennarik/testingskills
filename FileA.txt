@@ -1,4 +1,2 @@
 This is FileA
 This is FileA new
-Another entry
-git 
